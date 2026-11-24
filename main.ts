@@ -1,3 +1,4 @@
+// Two sentences, one scare — the entry is the whole program.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const story =
